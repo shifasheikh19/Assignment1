@@ -37,6 +37,10 @@ body {
     font-style: italic;
     margin-top: 5px;
 }
+img{
+    width: 200px;
+    height: auto;
+  }
 
 .styled-button {
     padding: 10px 20px;
